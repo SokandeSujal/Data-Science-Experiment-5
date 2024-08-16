@@ -46,9 +46,9 @@ This section focuses on fundamental plot types that are commonly used in data vi
 - **Pie Charts:** For showing proportions of categories in a dataset.
 - **Examples & Plots:** Each plot type is demonstrated with real data examples and visual outputs.
 
-![Basic Line Plot Example](2._Basic_Plots/Line_Plot.png)
-![Basic Bar Plot Example](2._Basic_Plots/Bar_Plot.png)
-![Basic Pie Chart Example](2._Basic_Plots/Pie_Chart.png)
+![Basic Line Plot Example](02_Basic_Plots/line_plot_example.png)
+![Basic Bar Plot Example](02_Basic_Plots/bar_plot_example.png)
+![Basic Pie Chart Example](02_Basic_Plots/pie_chart_example.png)
 
 ### 3. Advanced Plots
 
