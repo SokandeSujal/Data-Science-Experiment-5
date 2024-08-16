@@ -24,6 +24,7 @@ Data visualization is a crucial skill in data science and analytics, as it helps
 - `03_Advanced_Plots/`
 - `04_Customization_Techniques/`
 
+
 Each folder contains Python scripts, datasets, and corresponding plots that illustrate different aspects of data visualization.
 
 ## Concepts Covered
@@ -36,7 +37,15 @@ The first section introduces the Matplotlib library, covering its installation a
 - **Customizing Plot Elements:** Techniques for adding titles, labels, and legends to plots.
 - **Saving Plots:** Instructions for saving plots in various formats such as PNG, JPG, and PDF.
 
-![Introduction Plot Example](01_Introduction_to_Matplotlib/introduction_plot_example.png)
+![Image 1](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/1.png)
+![Image 2](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/2.png)
+![Image 3](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/3.png)
+![Image 4](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/4.png)
+![Image 5](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/5.png)
+![Image 6](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/6.png)
+![Image 7](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/7.png)
+![Image 8](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/8.png)
+![Image 9](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/1.%20Introduction%20to%20MatplotLib/9.png)
 
 ### 2. Basic Plots
 
@@ -46,9 +55,11 @@ This section focuses on fundamental plot types that are commonly used in data vi
 - **Pie Charts:** For showing proportions of categories in a dataset.
 - **Examples & Plots:** Each plot type is demonstrated with real data examples and visual outputs.
 
-![Basic Line Plot Example](02_Basic_Plots/line_plot_example.png)
-![Basic Bar Plot Example](02_Basic_Plots/bar_plot_example.png)
-![Basic Pie Chart Example](02_Basic_Plots/pie_chart_example.png)
+![Line Plot](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/2.%20Basic%20Plots/Line%20Plot.png)
+![Bar Plot](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/2.%20Basic%20Plots/Bar%20Plot.png)
+![Pie Chart](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/2.%20Basic%20Plots/Pie%20Chart.png)
+![Histogram](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/2.%20Basic%20Plots/Histogram.png)
+![Scatter Plot](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/2.%20Basic%20Plots/Scatter%20Plot.png)
 
 ### 3. Advanced Plots
 
@@ -60,9 +71,10 @@ In this section, more complex plots are explored, which are useful for detailed 
 - **Heatmaps:** To visualize matrix-like data or relationships between variables.
 - **Examples & Plots:** Advanced plot types are demonstrated with datasets, along with their visual outputs.
 
-![Advanced Scatter Plot Example](03_Advanced_Plots/scatter_plot_example.png)
-![Advanced Histogram Example](03_Advanced_Plots/histogram_example.png)
-![Advanced Box Plot Example](03_Advanced_Plots/box_plot_example.png)
+![3D Plot](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/3.%20Advanced%20Plots/3D%20Plot.png)
+![Box Plot](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/3.%20Advanced%20Plots/Box%20Plot.png)
+![Contour Plot](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/3.%20Advanced%20Plots/Contour%20Plot.png)
+![Heatmap](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/3.%20Advanced%20Plots/Heatmap.png)
 
 ### 4. Customization Techniques
 
@@ -74,8 +86,13 @@ The final section deals with advanced customization techniques to enhance the ap
 - **3D Plots:** Introduction to 3D plotting using `mplot3d`.
 - **Examples & Plots:** Demonstrations of customization techniques with visual examples.
 
-![Customized Plot Example](04_Customization_Techniques/customized_plot_example.png)
-![3D Plot Example](04_Customization_Techniques/3d_plot_example.png)
+![Annotations](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/4.%20Matplotlib%20Visualization%20Tips%20Customization%20and%20Subplots/Anotations.png)
+![Figure Size and Layout](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/4.%20Matplotlib%20Visualization%20Tips%20Customization%20and%20Subplots/Figure%20Size%20and%20Layout.png)
+![Grid and Ticks](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/4.%20Matplotlib%20Visualization%20Tips%20Customization%20and%20Subplots/Grid%20and%20Ticks.png)
+![Styles and Colour](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/4.%20Matplotlib%20Visualization%20Tips%20Customization%20and%20Subplots/Styles%20and%20Colour.png)
+![Subplots](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/4.%20Matplotlib%20Visualization%20Tips%20Customization%20and%20Subplots/Subplots.png)
+![Titles and Labels](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/4.%20Matplotlib%20Visualization%20Tips%20Customization%20and%20Subplots/Titles%20and%20Labels.png)
+![Twin Axes](https://github.com/SokandeSujal/Data-Science-Experiment-5/blob/main/4.%20Matplotlib%20Visualization%20Tips%20Customization%20and%20Subplots/Twin%20Axes.png)
 
 ## Usage
 
