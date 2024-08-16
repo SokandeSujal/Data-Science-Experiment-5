@@ -1,6 +1,9 @@
-# **Data Visualization with Matplotlib** ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) ![Matplotlib](https://img.shields.io/badge/matplotlib-v3.3.4-blue.svg)
+# **Data Visualization with Matplotlib** 
+![Python](https://img.shields.io/badge/python-v3.8+-blue.svg) ![Matplotlib](https://img.shields.io/badge/matplotlib-v3.3.4-blue.svg)
 
 This repository provides an extensive guide to **data visualization** using the Matplotlib library in Python. It covers a wide range of visualization techniques, from **basic plots** to **advanced customization methods**, making it a valuable resource for anyone interested in data science and analytics.
+
+---
 
 ## **Table of Contents**
 
@@ -14,17 +17,20 @@ This repository provides an extensive guide to **data visualization** using the 
 - [Usage](#usage)
 - [Conclusion](#conclusion)
 
+---
+
 ## **Introduction**
 
 Data visualization is a crucial skill in data science and analytics, as it helps in interpreting complex data sets through graphical representations. This project demonstrates how to create various types of plots using **Matplotlib**, a powerful and flexible library in Python.
 
+---
+
 ## **Folder Structure**
 
-- `01_Introduction_to_Matplotlib/`
-- `02_Basic_Plots/`
-- `03_Advanced_Plots/`
-- `04_Customization_Techniques/`
-
+- [01_Introduction_to_Matplotlib](https://github.com/SokandeSujal/Data-Science-Experiment-5/tree/main/1.%20Introduction%20to%20MatplotLib/)
+- [02_Basic_Plots](https://github.com/SokandeSujal/Data-Science-Experiment-5/tree/main/2.%20Basic%20Plots/)
+- [03_Advanced_Plots](https://github.com/SokandeSujal/Data-Science-Experiment-5/tree/main/3.%20Advanced%20Plots/)
+- [04_Customization_Techniques](https://github.com/SokandeSujal/Data-Science-Experiment-5/tree/main/4.%20Matplotlib%20Visualization%20Tips%20Customization%20and%20Subplots/)
 
 Each folder contains Python scripts, datasets, and corresponding plots that illustrate different aspects of data visualization.
 
@@ -105,3 +111,6 @@ This section deals with advanced customization techniques to enhance the appeara
 ## **Usage**
 
 To run the scripts in this repository, ensure you have Python installed along with the required libraries. You can install the necessary packages using:
+
+```bash
+pip install -r requirements.txt
