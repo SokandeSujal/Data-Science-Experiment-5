@@ -9,7 +9,7 @@ This repository provides an extensive guide to data visualization using the Matp
   - [1. Introduction to Matplotlib](#1-introduction-to-matplotlib)
   - [2. Basic Plots](#2-basic-plots)
   - [3. Advanced Plots](#3-advanced-plots)
-  - [4. Customization Techniques](#4-customization-techniques)
+  - [4. Matplotlib Visualization Tips Customization and Subplots](#4-customization-techniques)
 - [Usage](#usage)
 - [Conclusion](#conclusion)
 
